@@ -24,3 +24,6 @@ I love skiing. Below is a photo that I took at the top of the mountain when I wa
 
 You can find my resume [here](resume.html). 
 
+## Flexdashboard
+
+I made three plots using plotly with data from NY NOAA [here](flexdashboard_plot.html). 
