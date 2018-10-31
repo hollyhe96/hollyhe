@@ -66,6 +66,7 @@ ny_noaa %>%
   summarize(snow_mean = mean(snow, na.rm = T)) %>% 
   plot_ly(x = ~factor(year), y = ~snow_mean, type = "bar", color = ~factor(year)) %>% 
   layout(title = "Average snowfall in January for each year",
-         xaxis = list(title = "Year"))
+         xaxis = list(title = "Year"),
+         yaxis = list(title = "Average snowfall"))
 ```
 
