@@ -1,0 +1,22 @@
+---
+title: ""
+---
+
+## Brief Introduction
+
+Hello, everyone! 
+
+This is my first website. 
+
+You could know me better by exploring the website.
+
+I am Holly, the first year MS Biostatistics student in Columbia University. 
+
+I love skiing. Below is a photo that I took at the top of the mountain when I was skiing.
+
+<img src="images/ski.jpg" style="width:75%">
+
+## Resume
+
+You can find my resume [here](resume.html). 
+
