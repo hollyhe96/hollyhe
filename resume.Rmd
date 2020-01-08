@@ -2,6 +2,4 @@
 title: "Resume"
 ---
 
-Below is my resume. 
-
-<img src="resume/resume.png" style="width:75%">
+<img src="resume/Resume_Yun_He.png" style="width:75%">
