@@ -1,3 +1,3 @@
 # hollyhe.github.io
 
-These are about my first website. 
+Welcome! This is my personal website.
